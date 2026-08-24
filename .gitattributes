@@ -1,0 +1,12 @@
+# This file is used to override language statistics
+*.bat text eol=crlf
+*.jpg binary   
+**/*.py linguist-detectable
+
+*.json linguist-detectable=false
+*.min.css linguist-generated
+*.yml linguist-detectable=false 
+public/index.html linguist-vendored
+*.png binary
+
+*.py linguist-detectable
